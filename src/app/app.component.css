@@ -1,0 +1,21 @@
+.title {
+  text-align: center
+}
+
+.form {
+  margin-top: 20px;
+  text-align: center
+}
+
+.todos {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.delete:hover {
+  color: red
+}
+
+.complete:hover {
+  color: green
+}
